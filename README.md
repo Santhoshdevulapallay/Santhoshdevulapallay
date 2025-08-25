@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🙋‍♂️ I'm Santhosh Devulapally  
-- 📝 I write about tech and projects on my blog [here](https://my-personal-blog-santhoshds-projects-665faa6e.vercel.app/)  
+- 📝 I write about tech and projects on my blog [here](https://santhoshd-blog.vercel.app/)  
 - 💼 I’m currently working at Grid Controller of India Ltd .
 - 💻 I’m learning **React , Golang, Django, Data Structures & Algorithms**  
 - 🤝 I’m looking to collaborate on interesting and impactful projects  
