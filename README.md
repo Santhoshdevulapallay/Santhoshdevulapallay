@@ -6,8 +6,7 @@
 - 💻 I’m learning **React , Golang, Django, Data Structures & Algorithms**  
 - 🤝 I’m looking to collaborate on interesting and impactful projects  
 - 📫 Reach me at: **udaysanthosh1995@gmail.com**  
-- ⚡ Fun fact: [Add something fun about yourself]  
-
+  
 ---
 
 ### 📊 GitHub Stats  
