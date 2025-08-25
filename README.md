@@ -11,13 +11,13 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhoshdevulapallay&show_icons=true&theme=radical)  
 
 ---
 
 ### 🚀 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshdevulapallay&layout=compact&theme=radical)  
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.Santhoshdevulapallay)
