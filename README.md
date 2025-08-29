@@ -3,7 +3,7 @@
 - 🙋‍♂️ I'm Santhosh Devulapally  
 - 📝 I write about tech and projects on my blog [here](https://santhoshd-blog.vercel.app/)  
 - 💼 I’m currently working at Grid Controller of India Ltd .
-- 💻 I’m learning **React , Golang, Django, Data Structures & Algorithms**  
+- 💻 I’m learning **React , Advanced JS concepts, Redux , Data Structures & Algorithms**  
 - 🤝 I’m looking to collaborate on interesting and impactful projects  
 - 📫 Reach me at: **udaysanthosh1995@gmail.com**  
   
